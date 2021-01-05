@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@xunlei/vue-context-menu": "^1.0.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "clonedeep": "^2.0.0",
     "countup": "^1.8.2",
     "iview": "^3.1.0",
